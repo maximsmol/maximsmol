@@ -1,6 +1,6 @@
 Tech Lead / Founding Engineer at LatchBio
 
-Publically contributing mostly to open-source stuff we use at work.
+Publicly contributing mostly to open-source stuff we use at work.
 
 ---
 
